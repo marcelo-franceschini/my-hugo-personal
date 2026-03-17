@@ -1,0 +1,4 @@
+baseURL = "https://marcelo-franceschini.github.io/"
+languageCode = "pt-br"
+title = "Meu Site"
+theme = "PaperMod"
