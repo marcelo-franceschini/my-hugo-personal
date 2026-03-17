@@ -1,4 +1,4 @@
-baseURL = "https://marcelo-franceschini.github.io/"
+baseURL = "https://marcelo-franceschini.github.io/my-hugo-personal/"
 languageCode = "pt-br"
 title = "Meu Site"
 theme = "PaperMod"
